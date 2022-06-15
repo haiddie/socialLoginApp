@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "937752226850",
+    "project_id": "social-login-app-77a4e",
+    "storage_bucket": "social-login-app-77a4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937752226850:android:b6bcbcbbb5090606e1ee7b",
+        "android_client_info": {
+          "package_name": "co.SLoginApp.io"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937752226850-62r9arrmlqgn74bieph41bt9fu7maqq2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.SLoginApp.io",
+            "certificate_hash": "39bc9e6e7e8b0bd12b944ed4216e03626eeb30fc"
+          }
+        },
+        {
+          "client_id": "937752226850-0dh969nvuf1gddjo1iq4lujt6r3t3uvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrb5tpR1hu-Zv1xkw6HrI3TSk2bUB483Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937752226850-0dh969nvuf1gddjo1iq4lujt6r3t3uvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937752226850:android:8db814816914fa19e1ee7b",
+        "android_client_info": {
+          "package_name": "co.socialmediaapp.io"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937752226850-0dh969nvuf1gddjo1iq4lujt6r3t3uvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrb5tpR1hu-Zv1xkw6HrI3TSk2bUB483Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937752226850-0dh969nvuf1gddjo1iq4lujt6r3t3uvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937752226850:android:f5738096cc26b7c5e1ee7b",
+        "android_client_info": {
+          "package_name": "com.googlefacebook.caplogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937752226850-ecqhn5i11tva38lrf06atdhriu26g5f2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.googlefacebook.caplogin",
+            "certificate_hash": "a08a223da401ceb49460137cead71e2dd1fd3134"
+          }
+        },
+        {
+          "client_id": "937752226850-0dh969nvuf1gddjo1iq4lujt6r3t3uvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrb5tpR1hu-Zv1xkw6HrI3TSk2bUB483Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937752226850-0dh969nvuf1gddjo1iq4lujt6r3t3uvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
